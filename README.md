@@ -1,2 +1,2 @@
 # shithub
-NSS Jurassic Jungle Project Codebase
+Like github, but shithub.
